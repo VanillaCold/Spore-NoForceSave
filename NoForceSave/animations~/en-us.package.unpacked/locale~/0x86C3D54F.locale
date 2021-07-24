@@ -1,0 +1,128 @@
+# edi-errorcannotloadintoeditor.prop
+
+0x05BA1727 This creation cannot be loaded into the editor.
+
+# edi-errorinvalidsymmetry.prop
+
+0x129B2CA9 This creation has parts with invalid symmetry
+
+# edi-errorinvalidparents.prop
+
+0x8EC0F9B6 This creation has parts with invalid parents
+
+# edi-errornomouth.prop
+
+0x1F83D13C Your creation needs a mouth
+
+# edi-errorhasunloadabletextures.prop
+
+0x05338A1F This creation has unloadable textures
+
+# edi-errorblankname.prop
+
+0x0593532B You must give your creation a name before you can save
+
+# edi-errorhasfloatingparts.prop
+
+0x1CDAA322 This creation cannot be loaded
+
+# edi-errortoosmallabsolutez.prop
+
+0x059352E0 This creation is too small
+
+# edi-errortoosmally.prop
+
+0x05935235 This creation is too small
+
+# edi-errormouthfront.prop
+
+0x44F89E14 Mouths work best on the front of the creation
+
+# edi-errornolimbs.prop
+
+0x0F49E842 You need a limb to attach a foot or grasper
+
+# edi-errorintersectingendeffectors.prop
+
+0x6B242B79 This creation is invalid
+
+# edi-errorinvalidparts.prop
+
+0x74E889BF The creation contains invalid parts
+
+# edi-errorbadcharacters.prop
+
+0x0593533D The name contains invalid characters
+
+# edi-errortoosmallx.prop
+
+0x059351F6 This creation is too small
+
+# edi-blockscaled.prop
+
+0xEDDA5389 Scroll the mouse wheel to scale parts
+
+# edi-errortoosmallz.prop
+
+0x05935251 This creation is invalid
+
+# edi-errorhasunloadableblocks.prop
+
+0xB2499A05 This creation has parts from an expansion you don't have
+
+# edi-errorinvalidpaint.prop
+
+0x90DD7C99 This creation uses an invalid paint.
+
+# Over budget
+
+0x53371DFF The creation goes over the editor budget
+
+# edi-blockpurchased.prop
+
+0xE1003992 Drag a part from the palette to add to your creation
+
+# edi-errorinvalidscales.prop
+
+0xF3915F1A This creation has parts with an invalid size.
+
+# edi-errorfailedload.prop
+
+0x059493F1 This creation cannot be loaded - it is corrupted.
+
+# edi-erroroutofbounds.prop
+
+0xED466ADA The creation is out of editor bounds
+
+# Save
+
+0xA8CFB7C8 You need at least 3 parts to Save
+
+# edi-errorinvalidname.prop
+
+0x6A1E1CCA The name of this creation is either blank or has invalid characters
+
+# edi-errornotpainted.prop
+
+0x4AEE3558 The creation has not been painted yet
+
+# edi-errorinvalidcomplexity.prop
+
+0x3106FE9B The creation is too complex.
+
+# edi-errortoosmall.prop
+
+0x86257FF9 This creation is too small
+
+# edi-cameramoved.prop
+
+0x1FF46AFA Click and drag the background to rotate the camera
+
+# edi-errormissingpacks.prop
+
+0x4D523DE8 The creation requires content packs which aren't present
+
+# edi-errorstatsoutofrange.prop
+
+0x7FD1B365 This creation has invalid stats
+

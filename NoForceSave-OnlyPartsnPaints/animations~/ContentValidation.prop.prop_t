@@ -1,0 +1,132 @@
+string16 IllegalCharacters "<>:|*?.&\/"
+int32 minnumblocks 3
+float pickabilityMaxDimensionRatio 20
+float pickabilityMinScore 0.1
+int32s validationEditableTests
+#	2
+#	3
+	4
+#	5
+#	6
+#	7
+#	8
+#	10
+#	14
+#	17
+#	18
+#	27
+end
+int32s validationEditorLoadableTests
+#	2
+#	3
+#	4
+#	6
+#	10
+#	14
+#	17
+#	27
+end
+int32s validationEditorToIgnoreTests
+end
+int32s validationPlayableTests
+	0
+	1
+	2
+	3
+	4
+	#5 # has valid parts
+	6
+	7
+	8
+	10 # has mouth
+	14
+	17
+	#18 # has valid paints
+	27
+end
+int32s validationPollinatableTests
+	2
+	3
+	4
+	#5
+	6
+	7
+	8
+	10
+	14
+	17
+	#18
+	27
+end
+int32s validationSporepediaEditableTests
+#	2
+#	3
+#	4
+#	5
+#	6
+#	7
+#	8
+#	9
+#	10
+#	14
+#	17
+#	18
+#	27
+end
+int32s validationSporepediaPlayableTests
+	0
+	1
+	2
+	3
+	4
+	#5
+	#6
+	#7
+	#8
+	#9
+	10
+	14
+	17
+	#18
+	#27
+end
+int32s validationSporepediaViewableLargeTests
+#	2#
+#	4
+#	6
+#	7
+#	8
+#	9
+#	10
+#	14
+#	15
+#	17
+#	18
+#	27
+end
+int32s validationSporepediaViewableTests
+#	2
+#	4
+#	6
+#	7
+#	8
+#	9
+#	10
+#	15
+#	17
+#	27
+end
+int32s validationWarningTests
+	#2
+	#3
+#	#4
+	5 # check if parts valid
+	#6
+	#7
+	#8
+	#10 #check if creation has mouth
+	#14
+	#17
+	18 # check if paints valid
+	#27
+end

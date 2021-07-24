@@ -1,0 +1,3 @@
+<mod displayName="Better Saving Warnings" unique="chocice75editorsnowhavedescriptiveerrors" description="Gives unique warning messages for errors with validation when saving or loading creations. Doesn't work with Force Save." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">!!!!!!ChocIce75_NoForceSave-EditorErrorsOnly.package</prerequisite>
+</mod>

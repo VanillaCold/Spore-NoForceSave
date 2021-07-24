@@ -1,0 +1,200 @@
+# Delete message box
+
+0x04A5B7EB Delete
+
+# Edit Sporecast Success
+
+0x061B3E6C Sporecast successfully updated!
+
+# login failed dialog title
+
+0x055C0E8E Login Failed
+
+# Unsubscribing failed
+
+0x05A5DFA5 Failed to unsubscribe from Sporecast.
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB Would you like to remove "~generic0~" from your buddy list?
+
+# Add buddy failed
+
+0x0615DBB1 Add buddy failed.
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B51 ~generic0~. The creation cannot be shared. Are you sure you want to save?
+0x05399B53 ~generic0~. The creation cannot be played in the game. Are you sure you want to save?
+0x05399B52 ~generic0~. The creation cannot be shared. Are you sure you want to save?
+0x05399B54 ~generic0~. The creation cannot be played in game and cannot be shared. Are you sure you want to save?
+
+# Save dialog
+
+0x04D96A85 Are you sure?  All progress will be lost!
+0x04D96A86 Do you want to save your game?
+0x04D96A87 Save Game Failed - Spore will now exit. Your previous save should be recovered on restart.
+0x04D96A88 Spore has detected a bad save game - Recovery to previous version has been attempted.
+0x04D96A84 The game on planet ~generic0~ is saved.
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF Would you like to unsubscribe from this Sporecast?
+
+# Remove buddy failed
+
+0x0615DBB5 Remove buddy failed.
+
+# Delete Sporecast button option
+
+0x948F600A Delete
+
+# Edit Sporecast Failure
+
+0x061B3E6D There was a problem updating your Sporecast.
+
+# Cannot open asset title
+
+0xF4A30B06 Cannot Open Asset
+
+#####################################
+# GGE
+
+0x051E63B8 Select a Creator
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA Error
+
+# Add buddy confirmation title
+
+0x0615DB9D Add Buddy
+
+# Subscribe to sporecast message 
+
+0x0618AEDD Would you like to subscribe to this Sporecast?
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 Network play disabled
+
+# Delete Sporecast message 
+
+0x948F6009 Are you sure you want to delete this Sporecast?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE Unsubscribe
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Create Sporecast
+
+#####################################
+# Settings
+
+0x057E63B7 You must manually restart Spore for resolution settings to take effect.
+0x064013CC Changing your buddy settings requires an update to your local preference settings. The game may appear to pause briefly. You can do this now, or the next time you start the game. Do you want to do this now?
+
+# XHTML error dialog message
+
+0x0618AEDB There was an error connecting to the Spore server.
+
+# Delete Sporecast Failure
+
+0x061B3E70 There was a problem deleting your Sporecast.
+
+# Subscribing failed
+
+0x05A5DFA6 Failed to subscribe to Sporecast.
+
+# Subscribe to sporecast title
+
+0x0618AEDC Subscribe
+
+# Already downloaded title
+
+0x066F2FEE Already Downloaded
+
+# Create Sporecast Failure
+
+0x059497F4 There was a problem creating your Sporecast.
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD2 Replace
+0x045BEDD3 Don't Save
+0x045BEDD4 Cancel
+0x045BEDD6 Save New
+0x045BEDD8 Exit
+0x045BEDD5 Share
+0x045BEDD7 Save-Share
+0x045BEDD9 Quit
+0x045BEDD1 Save
+0x045BEDDA Exit-No Save
+0x045BEDDB Cancel-No Save
+
+# Cannot open asset message 
+
+0xF4A30B07 To open requires Parts or Textures you don't have installed.
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 Reward
+
+# Create Sporecast Success
+
+0x059497EE Sporecast successfully created!
+
+# Already downloaded message
+
+0x066F2FEF You already have that model on your computer. Look in the "Everything" tab to find it.
+
+# Add buddy confirmation message 
+
+0x0615DBA2 Would you like to add "~generic0~" as a buddy?
+
+# Tribe game
+
+0x0518AEDA Quit [NOT IN USE]
+0x0518AED8 Your population has fallen below two.  You will need to restart and try again. [NOT IN USE]
+0x0518AED9 Restart [NOT IN USE]
+
+# Edit Sporecast Title
+
+0x061B3E6B Edit Sporecast
+
+# Remove buddy confirmation title
+
+0x0615DBA8 Remove Buddy
+
+# Banning content dialogs
+
+0x04519364 Ban Content
+0x045196AD Banning Content Failed
+0x04519652 This is local content.  Do you want to delete "~generic0~"?~br~~br~Note that your game will be saved, and you will return to the main screen. From there you can reload the game.
+0x045196B0 You cannot ban "~generic0~," it is made by Maxis and part of the shipping game.
+0x045196B2 You cannot ban your own creature.  "~generic0~" will not be banned.
+0x04519651 Do you want to remove this, "~generic0~," from the game?~br~~br~Note that your game will be saved, and you will return to the main galaxy screen. From there you can reload the game.
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast title
+
+0x948F6008 Delete Sporecast
+
+#Build your city Hall dialog box
+
+0x04A5B8EB Create New
+0x04A5B9EB Load
+
