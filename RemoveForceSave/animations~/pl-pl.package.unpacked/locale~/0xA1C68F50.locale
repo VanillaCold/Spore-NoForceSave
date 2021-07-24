@@ -1,0 +1,200 @@
+# Delete message box
+
+0x04A5B7EB Usuń
+
+# Edit Sporecast Success
+
+0x061B3E6C Spormedia zostały zaktualizowane!
+
+# login failed dialog title
+
+0x055C0E8E Logowanie nieudane
+
+# Unsubscribing failed
+
+0x05A5DFA5 Nie udało się zrezygnować z subskrybowania Spormediów.
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB Czy gracz „~generic0~” ma zostać usunięty z listy znajomych?
+
+# Add buddy failed
+
+0x0615DBB1 Nie udało się dodać gracza do listy znajomych.
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B51 ~generic0~. To dzieło nie może być opublikowane. Czy na pewno chcesz zapisać?
+0x05399B53 ~generic0~. Nie można użyć tego dzieło w grze. Czy na pewno chcesz zapisać?
+0x05399B52 ~generic0~. To dzieło nie może być opublikowane. Czy na pewno chcesz zapisać?
+0x05399B54 ~generic0~. To dzieło nie może być użyte w grze, ani opublikowane. Czy na pewno chcesz zapisać?
+
+# Save dialog
+
+0x04D96A85 Jeżeli nie zapiszesz wszystkie postępy zostaną utracone! Zapisać?
+0x04D96A86 Czy chcesz zapisać grę?
+0x04D96A87 Zapisanie gry nie powiodło się — SPORE wyjdzie na pulpit. Twój poprzedni zapis powinien zostać odzyskany przy następnym uruchomieniu gry.
+0x04D96A88 Gra SPORE wykryła nieprawidłowy zapis gry. Podjęto próbę odzyskania poprzedniego zapisu.
+0x04D96A84 Gra na planecie ~generic0~ została zapisana.
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF Czy chcesz zrezygnować z subskrybowania tych Spormediów?
+
+# Remove buddy failed
+
+0x0615DBB5 Nie udało się usunąć gracza z listy znajomych.
+
+# Delete Sporecast button option
+
+0x948F600A Usuń
+
+# Edit Sporecast Failure
+
+0x061B3E6D Wystąpił problem z aktualizacją Spormediów.
+
+# Cannot open asset title
+
+0xF4A30B06 Nie można otworzyć elementu
+
+#####################################
+# GGE
+
+0x051E63B8 Wybierz Edytor
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA Błąd
+
+# Add buddy confirmation title
+
+0x0615DB9D Dodaj znajomego
+
+# Subscribe to sporecast message 
+
+0x0618AEDD Czy chcesz subskrybować te Spormedia?
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 Gra sieciowa niedostępna
+
+# Delete Sporecast message 
+
+0x948F6009 Czy na pewno chcesz usunąć te Spormedia?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE Zrezygnuj z subskrybcji.
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Create Sporecast
+
+#####################################
+# Settings
+
+0x057E63B7 Musisz uruchomić SPORE ponownie, aby zmiana rozdzielczości została uwzględniona.
+0x064013CC Zmiana ustawień dotyczących Twojej znajomych wymaga aktualizacji parametrów lokalnych. Gra może się wtedy na chwilę zatrzymać. Możesz to zrobić teraz lub przy następnym uruchomieniu. Czy chcesz zaktualizować parametry teraz?
+
+# XHTML error dialog message
+
+0x0618AEDB Wystąpił błąd podczas łączenia z serwerem SPORE. Sprawdź połączenie z Internetem i spróbuj ponownie.
+
+# Delete Sporecast Failure
+
+0x061B3E70 Wystąpił problem z usuwaniem Spormediów.
+
+# Subscribing failed
+
+0x05A5DFA6 Nie udało się zasubskrybować Spormediów.
+
+# Subscribe to sporecast title
+
+0x0618AEDC Subskrybuj
+
+# Already downloaded title
+
+0x066F2FEE Już pobrano
+
+# Create Sporecast Failure
+
+0x059497F4 Wystąpił problem podczas tworzenia Spormediów.
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD2 Zastąp
+0x045BEDD3 Nie zapisuj
+0x045BEDD4 Anuluj
+0x045BEDD6 Zapisz nowy
+0x045BEDD8 Wyjście
+0x045BEDD5 Publikuj
+0x045BEDD7 Zapisz i opublikuj
+0x045BEDD9 Wyjście
+0x045BEDD1 Zapisz
+0x045BEDDA Wyjście bez zapisywania
+0x045BEDDB Anuluj bez zapisywania
+
+# Cannot open asset message 
+
+0xF4A30B07 Do jego otwarcia wymagane są elementy lub tekstury, które nie są zainstalowane na Twoim komputerze.
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 Nagroda
+
+# Create Sporecast Success
+
+0x059497EE Spormedia zostały utworzone!
+
+# Already downloaded message
+
+0x066F2FEF Masz już ten model na swoim komputerze. Znajdziesz go na karcie „Wszystko”.
+
+# Add buddy confirmation message 
+
+0x0615DBA2 Czy gracz „~generic0~” ma zostać dodany do listy znajomych?
+
+# Tribe game
+
+0x0518AEDA Wyjście [NOT IN USE]
+0x0518AED8 Liczność Twojego gatunku spadła poniżej dwóch. Musisz zacząć grę od nowa.[NOT IN USE]
+0x0518AED9 Od nowa [NOT IN USE]
+
+# Edit Sporecast Title
+
+0x061B3E6B Modyfikuj Spormedia
+
+# Remove buddy confirmation title
+
+0x0615DBA8 Usuń znajomego
+
+# Banning content dialogs
+
+0x04519364 Zablokuj element
+0x045196AD Zablokowanie elementu nieudane
+0x04519652 Ten element jest lokalny. Czy chcesz usunąć „~generic0~”?~br~~br~Pamiętaj, że Twoja gra zostanie wtedy zapisana i wrócisz do menu głównego. Następnie będzie można wczytać grę.
+0x045196B0 Nie możesz zablokować elementu „~generic0~”. Ten element został stworzony przez Maxis i jest integralną częścią gry.
+0x045196B2 Nie możesz zablokować własnego stwora. Element „~generic0~” nie zostanie zablokowany.
+0x04519651 Czy chcesz usunąć z gry element „~generic0~”?~br~~br~Gra zostanie zapisana i wrócisz na ekran galaktyki. Później będzie można wczytać grę.
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast title
+
+0x948F6008 Usuń Spormedia.
+
+#Build your city Hall dialog box
+
+0x04A5B8EB Utwórz nowy
+0x04A5B9EB Wczytaj
+

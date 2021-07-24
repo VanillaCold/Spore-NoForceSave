@@ -1,0 +1,128 @@
+# edi-errorcannotloadintoeditor.prop
+
+0x05BA1727 To dzieło nie może zostać załadowane do edytora.
+
+# edi-errorinvalidsymmetry.prop
+
+0x129B2CA9 To dzieło ma części z nieprawidłową symetrią.
+
+# edi-errorinvalidparents.prop
+
+0x8EC0F9B6 To dzieło ma części z nieprawidłowymi rodzicami.
+
+# edi-errornomouth.prop
+
+0x1F83D13C Twoje stworzenie potrzebuje otworu gębowego.
+
+# edi-errorhasunloadabletextures.prop
+
+0x05338A1F To dzieło ma niezaładowywalne tekstury.
+
+# edi-errorblankname.prop
+
+0x0593532B Musisz nazwać swoje dzieło, zanim będzie je można zapisać.
+
+# edi-errorhasfloatingparts.prop
+
+0x1CDAA322 To dzieło nie może zostać załadowane.
+
+# edi-errortoosmallabsolutez.prop
+
+0x059352E0 To dzieło nie może znajdować się za nisko.
+
+# edi-errortoosmally.prop
+
+0x05935235 To dzieło jest za wąskie.
+
+# edi-errormouthfront.prop
+
+0x44F89E14 Otwory gębowe najlepiej umieścić z przodu stwora.
+
+# edi-errornolimbs.prop
+
+0x0F49E842 Stopa lub chwytak wymagają kończyny do przytwierdzenia.
+
+# edi-errorintersectingendeffectors.prop
+
+0x6B242B79 To dzieło jest nieprawidłowe.
+
+# edi-errorinvalidparts.prop
+
+0x74E889BF To dzieło posiada nieprawidłowe części.
+
+# edi-errorbadcharacters.prop
+
+0x0593533D Nazwa dzieła posiada nieprawidłowe znaki.
+
+# edi-errortoosmallx.prop
+
+0x059351F6 To dzieło jest za wąskie.
+
+# edi-blockscaled.prop
+
+0xEDDA5389 Zakręć kółkiem myszy, aby zeskalować części.
+
+# edi-errortoosmallz.prop
+
+0x05935251 To dzieło jest za niskie.
+
+# edi-errorhasunloadableblocks.prop
+
+0xB2499A05 To dzieło ma części z dodatku, którego nie posiadasz.
+
+# edi-errorinvalidpaint.prop
+
+0x90DD7C99 To dzieło posiada nieprawidłowe tekstury.
+
+# Over budget
+
+0x53371DFF To dzieło jest zbyt kosztowne.
+
+# edi-blockpurchased.prop
+
+0xE1003992 Aby dodać element do swojego dzieła, przeciągnij go z palety.
+
+# edi-errorinvalidscales.prop
+
+0xF3915F1A To dzieło ma elementy z nieprawidłowym rozmiarem.
+
+# edi-errorfailedload.prop
+
+0x059493F1 To dzieło nie może zostać załadowane - dane są uszkodzone.
+
+# edi-erroroutofbounds.prop
+
+0xED466ADA To dzieło jest poza granicami edytora.
+
+# Save
+
+0xA8CFB7C8 Potrzebujesz przynajmniej trzech elementów, aby móc zapisać.
+
+# edi-errorinvalidname.prop
+
+0x6A1E1CCA To dzieło ma nazwę, która jest pusta, bądź zawiera nieprawidłowe znaki.
+
+# edi-errornotpainted.prop
+
+0x4AEE3558 To dzieło nie zostało jeszcze pomalowane.
+
+# edi-errorinvalidcomplexity.prop
+
+0x3106FE9B Ten stwór ma za dużo elementów.
+
+# edi-errortoosmall.prop
+
+0x86257FF9 To dzieło jest za małe.
+
+# edi-cameramoved.prop
+
+0x1FF46AFA Kliknij i zakręć tłem, aby poruszyć kamerą.
+
+# edi-errormissingpacks.prop
+
+0x4D523DE8 To stworzenie zawiera elementy z pakietów, które nie są zainstalowane.
+
+# edi-errorstatsoutofrange.prop
+
+0x7FD1B365 To dzieło ma nieprawidłowe statystyki.
+
