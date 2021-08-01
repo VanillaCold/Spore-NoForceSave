@@ -1,0 +1,128 @@
+# edi-errorcannotloadintoeditor.prop
+
+0x05BA1727 Данный объект нельзя загрузить.
+
+# edi-errorinvalidsymmetry.prop
+
+0x129B2CA9 Творение содержит фрагменты с нарушенной симметрией.
+
+# edi-errorinvalidparents.prop
+
+0x8EC0F9B6 Некоторые части творения расположены на несуществующих.
+
+# edi-errornomouth.prop
+
+0x1F83D13C Добавьте существу рот.
+
+# edi-errorhasunloadabletextures.prop
+
+0x05338A1F Текстуры творения невозможно загрузить.
+
+# edi-errorblankname.prop
+
+0x0593532B Перед сохранением укажите имя.
+
+# edi-errorhasfloatingparts.prop
+
+0x1CDAA322 Данный объект нельзя загрузить.
+
+# edi-errortoosmallabsolutez.prop
+
+0x059352E0 Творение слишком мало.
+
+# edi-errortoosmally.prop
+
+0x05935235 Творение слишком мало.
+
+# edi-errormouthfront.prop
+
+0x44F89E14 Рот лучше всего размещать на передней части существа.
+
+# edi-errornolimbs.prop
+
+0x0F49E842 Сначала добавьте конечность.
+
+# edi-errorintersectingendeffectors.prop
+
+0x6B242B79 Недопустимый объект
+
+# edi-errorinvalidparts.prop
+
+0x74E889BF Творение содержит части, не прошедшие валидацию.
+
+# edi-errorbadcharacters.prop
+
+0x0593533D Имя содержит недопустимые символы.
+
+# edi-errortoosmallx.prop
+
+0x059351F6 Творение слишком мало.
+
+# edi-blockscaled.prop
+
+0xEDDA5389 Для изменения размера фрагментов используйте колесико мыши.
+
+# edi-errortoosmallz.prop
+
+0x05935251 Творение слишком мало.
+
+# edi-errorhasunloadableblocks.prop
+
+0xB2499A05 Некоторые фрагменты данного объекта не входят~br~в ваш комплект установки.
+
+# edi-errorinvalidpaint.prop
+
+0x90DD7C99 Творение содержит окраски, не прошедшие валидацию.
+
+# Over budget
+
+0x53371DFF Творение исчерпало лимит валюты Редактора.
+
+# edi-blockpurchased.prop
+
+0xE1003992 Чтобы добавить фрагмент, щелкните на нем, удерживайте кнопку~br~мыши нажатой и переместите курсор к существу.
+
+# edi-errorinvalidscales.prop
+
+0xF3915F1A Некоторые фрагменты творения имеют неверный размер.
+
+# edi-errorfailedload.prop
+
+0x059493F1 Творение повреждено — невозможно загрузить.
+
+# edi-erroroutofbounds.prop
+
+0xED466ADA Творение выходит за рамки Редактора.
+
+# Save
+
+0xA8CFB7C8 Творение должно состоять как минимум из трех фрагментов.
+
+# edi-errorinvalidname.prop
+
+0x6A1E1CCA Имя существа не указано или содержит недопустимые символы.
+
+# edi-errornotpainted.prop
+
+0x4AEE3558 Не выбрана окраска.
+
+# edi-errorinvalidcomplexity.prop
+
+0x3106FE9B Слишком много фрагментов тела.
+
+# edi-errortoosmall.prop
+
+0x86257FF9 Творение слишком мало.
+
+# edi-cameramoved.prop
+
+0x1FF46AFA Для вращения камеры перемещайте курсор,~br~удерживая нажатой левую кнопку мыши.
+
+# edi-errormissingpacks.prop
+
+0x4D523DE8 Не установлены наборы, используемые этим творением.
+
+# edi-errorstatsoutofrange.prop
+
+0x7FD1B365 Творение имеет слишком высокие параметры.
+
