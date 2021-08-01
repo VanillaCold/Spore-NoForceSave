@@ -1,0 +1,200 @@
+# Edit Sporecast Title
+
+0x061B3E6B Muokkaa Sporelmaa
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 Palkkio
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB Poistetaanko ~generic0~ kaverilistaltasi?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE Peru tilaus
+
+# Subscribing failed
+
+0x05A5DFA6 Sporelman tilaus epäonnistui.
+
+# Create Sporecast Success
+
+0x059497EE Sporelman luonti onnistui!
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Luo Sporelma
+
+#Build your city Hall dialog box
+
+0x04A5B8EB Luo uusi
+0x04A5B9EB Lataa
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF Haluatko perua tämän Sporelman tilauksen?
+
+# XHTML error dialog message
+
+0x0618AEDB Virhe muodostettaessa yhteyttä Spore-palvelimeen. Tarkista Internet-yhteys tai yritä myöhemmin uudelleen.
+
+# Edit Sporecast Success
+
+0x061B3E6C Sporelman päivitys onnistui!
+
+# Already downloaded title
+
+0x066F2FEE Valmiiksi ladattu
+
+# Delete Sporecast Failure
+
+0x061B3E70 Sporelman poistossa tapahtui virhe.
+
+# login failed dialog title
+
+0x055C0E8E Kirjautuminen epäonnistui
+
+#####################################
+# GGE
+
+0x051E63B8 Valitse editori
+
+# Subscribe to sporecast message 
+
+0x0618AEDD Haluatko tilata tämän Sporelman?
+
+# Cannot open asset message 
+
+0xF4A30B07 Avaamiseen tarvitaan osia tai kuviointeja, joita ei ole asennettu.
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 Verkkopeli on kytketty pois päältä
+
+# Subscribe to sporecast title
+
+0x0618AEDC Tilaa
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B51 ~generic0~. Luomusta ei voi jakaa. Haluatko varmasti tallentaa?
+0x05399B53 ~generic0~. Luomus ei ole pelattavissa. Haluatko varmasti tallentaa?
+0x05399B54 ~generic0~. Luomus ei ole pelattavissa eikä luomusta voi jakaa. Haluatko varmasti tallentaa?
+0x05399B52 ~generic0~. Luomusta ei voi jakaa. Haluatko varmasti tallentaa?
+
+# Cannot open asset title
+
+0xF4A30B06 Kohdetta ei voi avata
+
+# Delete Sporecast title
+
+0x948F6008 Poista Sporelma
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD2 Korvaa
+0x045BEDD3 Älä tallenna
+0x045BEDD4 Peruuta
+0x045BEDD6 Tallenna uusi
+0x045BEDD8 Poistu
+0x045BEDD5 Jaa
+0x045BEDD7 Tallenna - jaa
+0x045BEDD9 Lopeta
+0x045BEDD1 Tallenna
+0x045BEDDB Peruuta - ei tallennusta
+0x045BEDDA Poistu tallentamatta
+
+# Delete Sporecast message 
+
+0x948F6009 Haluatko varmasti poistaa tämän Sporelman?
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast button option
+
+0x948F600A Poista
+
+# Tribe game
+
+0x0518AED9 Aloita alusta [NOT IN USE]
+0x0518AED8 Väestöä ei ole jäljellä enää kahtakaan. Aloita alusta ja yritä uudelleen. [NOT IN USE]
+0x0518AEDA Lopeta [NOT IN USE]
+
+# Create Sporecast Failure
+
+0x059497F4 Sporelman luonnissa tapahtui virhe.
+
+# Edit Sporecast Failure
+
+0x061B3E6D Sporelman päivityksessä tapahtui virhe.
+
+# Banning content dialogs
+
+0x045196B0 Et voi poistaa kohdetta ~generic0~, sillä se on Maxisin tekemä ja osa peruspeliä.
+0x04519652 Tämä sisältö on tietokoneella. Haluatko varmasti poistaa kohteen ~generic0~?~br~~br~Huomaa, että tällöin pelisi tallentuu ja palaat aloitusruudulle, josta voit ladata pelin uudelleen.
+0x04519651 Haluatko poistaa pelistä kohteen ~generic0~?~br~~br~Huomaa, että tällöin pelisi tallentuu ja palaat galaksin pääruudulle, josta voit ladata pelin uudelleen.
+0x045196B2 Et voi estää omaa otustasi. Kohteen ~generic0~ estäminen ei onnistu.
+0x045196AD Sisällön estäminen epäonnistui
+0x04519364 Poista sisältö
+
+#####################################
+# Settings
+
+0x057E63B7 Kuvantarkkuus otetaan käyttöön, kun käynnistät SPORE-pelin uudelleen.
+0x064013CC Kaveriasetusten muuttaminen vaatii paikallisten asetusten päivittämistä. Peli saattaa pysähtyä hetkeksi. Voit tehdä päivityksen joko nyt tai seuraavalla kerralla, kun käynnistät pelin. Haluatko tehdä päivityksen nyt?
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA Virhe
+
+# Remove buddy failed
+
+0x0615DBB5 Kaverin poisto epäonnistui.
+
+# Already downloaded message
+
+0x066F2FEF Valittu malli on jo tietokoneellasi. Näet sen, kun valitset kaikkien kohteiden välilehden.
+
+# Add buddy confirmation title
+
+0x0615DB9D Lisää kaveri
+
+# Add buddy confirmation message 
+
+0x0615DBA2 Lisätäänkö ~generic0~ kaveriksesi?
+
+# Add buddy failed
+
+0x0615DBB1 Kaverin lisäys epäonnistui.
+
+# Delete message box
+
+0x04A5B7EB Poista
+
+# Unsubscribing failed
+
+0x05A5DFA5 Tilatun Sporelman peruutus epäonnistui.
+
+# Save dialog
+
+0x04D96A85 Oletko varma valinnastasi? Menetät kaiken edistymisesi!
+0x04D96A86 Haluatko tallentaa pelisi?
+0x04D96A87 Pelin tallennus epäonnistui. Spore lopettaa nyt toimintansa. Aiempi pelitallennus palautuu käyttöön, kun käynnistät pelin uudelleen.
+0x04D96A88 Spore on havainnut virheellisen pelitallennuksen, ja järjestelmä on yrittänyt palauttaa aiemman version.
+0x04D96A84 Planeetan ~generic0~ pelitilanne on tallennettu.
+
+# Remove buddy confirmation title
+
+0x0615DBA8 Poista kaveri
+
