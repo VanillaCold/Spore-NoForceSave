@@ -8,3 +8,4 @@ Eventually, the mod will also add an option to disable Force Save.
 - Chocice75 - creating the mod
 - Mrs. White/Snek - creating `pl-pl` localization
 - 0KepOnline - creating `ru-ru` localization
+- Tenderi4 - creating the `fi-fi` localization
