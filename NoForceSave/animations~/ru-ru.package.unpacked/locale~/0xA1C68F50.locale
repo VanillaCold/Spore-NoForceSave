@@ -1,0 +1,200 @@
+# Edit Sporecast Title
+
+0x061B3E6B Изменение трансляции
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 Награда
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB Удалить пользователя ~generic0~ из списка знакомых?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE Отмена подписки
+
+# Subscribing failed
+
+0x05A5DFA6 Ошибка подписки на трансляцию.
+
+# Create Sporecast Success
+
+0x059497EE Трансляция успешно создана!
+
+#Build your city Hall dialog box
+
+0x04A5B9EB Загрузка
+0x04A5B8EB Создание
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF Отменить подписку на данную трансляцию?
+
+# XHTML error dialog message
+
+0x0618AEDB Ошибка подключения к серверу SPORE. Проверьте наличие подключения к Интернету или повторите попытку позже.
+
+# Edit Sporecast Success
+
+0x061B3E6C Трансляция успешно изменена!
+
+# Already downloaded title
+
+0x066F2FEE Объект уже загружен.
+
+# Delete Sporecast Failure
+
+0x061B3E70 Не удалось удалить трансляцию Spore.
+
+# login failed dialog title
+
+0x055C0E8E Ошибка входа
+
+#####################################
+# GGE
+
+0x051E63B8 Выбор редактора
+
+# Subscribe to sporecast message 
+
+0x0618AEDD Подписаться на данную трансляцию?
+
+# Cannot open asset message 
+
+0xF4A30B07 Некоторые текстуры или фрагменты не входят в ваш комплект установки.
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 Игра по сети недоступна
+
+# Subscribe to sporecast title
+
+0x0618AEDC Подписка
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B52 ~generic0~. Вы не сможете опубликовать это творение. Сохранить изменения?
+0x05399B54 ~generic0~. Творение будет недоступно на этапах игры. Вы также не сможете его опубликовать. Сохранить изменения?
+0x05399B53 ~generic0~. Творение будет недоступно в игре. Сохранить изменения?
+0x05399B51 ~generic0~. Вы не сможете опубликовать это творение. Сохранить изменения?
+
+# Cannot open asset title
+
+0xF4A30B06 Невозможно открыть объект
+
+# Delete Sporecast title
+
+0x948F6008 Удалить трансляцию
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD4 Отмена
+0x045BEDD5 Опубликовать
+0x045BEDD1 Сохранить
+0x045BEDDB Отмена (не сохранять)
+0x045BEDD3 Не сохранять
+0x045BEDD7 Сохранить и опубликовать
+0x045BEDD2 Заменить
+0x045BEDD6 Сохранить новый объект
+0x045BEDD8 Выйти
+0x045BEDD9 Выйти
+0x045BEDDA Выйти (не сохранять)
+
+# Delete Sporecast message 
+
+0x948F6009 Удалить выбранную трансляцию?
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast button option
+
+0x948F600A Удалить
+
+# Tribe game
+
+0x0518AED8 Your population has fallen below two.  You will need to restart and try again. [NOT IN USE]
+0x0518AEDA Quit [NOT IN USE]
+0x0518AED9 Restart [NOT IN USE]
+
+# Create Sporecast Failure
+
+0x059497F4 Ошибка создания трансляции.
+
+# Edit Sporecast Failure
+
+0x061B3E6D Произошла ошибка изменения трансляции.
+
+# Banning content dialogs
+
+0x045196AD Ошибка блокирования материалов
+0x045196B0 ~generic0~: невозможно заблокировать данный объект, поскольку он является неотъемлемой частью игры.
+0x04519652 ~generic0~: удалить данный несетевой компонент?~br~~br~Игра будет сохранена. Откроется основной экран, откуда вы сможете загрузить игру.
+0x045196B2 ~generic0~: данный объект является вашим персонажем, поэтому его нельзя удалить.
+0x04519651 ~generic0~: удалить данный компонент?~br~~br~Игра будет сохранена. Вы вернетесь на экран галактики, где сможете загрузить игру.
+0x04519364 Блокирование объекта
+
+#####################################
+# Settings
+
+0x057E63B7 Чтобы изменения вступили в силу, перезапустите игру.
+0x064013CC Для изменения параметров списка знакомых потребуется обновление данных о параметрах игры. Игра может быть приостановлена на определенное время. Вы можете выполнить эту операцию сейчас или при следующем запуске игры. Выполнить сейчас?
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA Ошибка
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Создать трансляцию
+
+# Already downloaded message
+
+0x066F2FEF Данный объект уже загружен в вашу Споропедию. Найти его можно в разделе "Все".
+
+# Add buddy confirmation title
+
+0x0615DB9D Добавление пользователя в список знакомых
+
+# Add buddy confirmation message 
+
+0x0615DBA2 Добавить пользователя ~generic0~ в список знакомых?
+
+# Add buddy failed
+
+0x0615DBB1 Не удалось добавить пользователя в список знакомых.
+
+# Delete message box
+
+0x04A5B7EB Удаление
+
+# Unsubscribing failed
+
+0x05A5DFA5 Ошибка отмены подписки на трансляцию.
+
+# Save dialog
+
+0x04D96A86 Сохранить игру?
+0x04D96A85 Все данные будут утеряны. Подтвердите выполнение.
+0x04D96A87 Ошибка сохранения игры. Приложение будет закрыто. При повторном запуске будет восстановлена предыдущая сохраненная игра.
+0x04D96A88 Файл сохраненной игры поврежден. Производится возврат к предыдущей версии.
+0x04D96A84 Игра на планете ~generic0~ сохранена.
+
+# Remove buddy failed
+
+0x0615DBB5 Не удалось удалить пользователя из списка знакомых.
+
+# Remove buddy confirmation title
+
+0x0615DBA8 Исключить знакомого из списка
+
