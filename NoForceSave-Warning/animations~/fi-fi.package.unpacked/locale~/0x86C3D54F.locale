@@ -1,0 +1,128 @@
+# edi-errorcannotloadintoeditor.prop
+
+0x05BA1727 Luomusta ei voi ladata editoriin
+
+# edi-errorinvalidsymmetry.prop
+
+0x129B2CA9 Luomuksessa on osia, joilla on virheellinen symmetria.
+
+# edi-errorinvalidparents.prop
+
+0x8EC0F9B6 Luomuksessa on osia, joilla ei ole vanhempia.
+
+# edi-errornomouth.prop
+
+0x1F83D13C Luomuksesi tarvitsee suun
+
+# edi-errorhasunloadabletextures.prop
+
+0x05338A1F Luomuksella on virheellinen pinta
+
+# edi-errorblankname.prop
+
+0x0593532B Nimeä luomuksesi ennen sen tallentamista
+
+# edi-errorhasfloatingparts.prop
+
+0x1CDAA322 Luomusta ei voi ladata
+
+# edi-errortoosmallabsolutez.prop
+
+0x059352E0 Luomus on liian pieni
+
+# edi-errortoosmally.prop
+
+0x05935235 Luomus on liian pieni
+
+# edi-errormouthfront.prop
+
+0x44F89E14 Suut toimivat parhaiten luomuksen etupuolella
+
+# edi-errornolimbs.prop
+
+0x0F49E842 Jalkaterät ja tarttuimet pitää yhdistää raajaan
+
+# edi-errorintersectingendeffectors.prop
+
+0x6B242B79 Luomus on virheellinen
+
+# edi-errorinvalidparts.prop
+
+0x74E889BF Luomuksessa on virheellisiä osia
+
+# edi-errorbadcharacters.prop
+
+0x0593533D Nimessä on virheellisiä merkkejä
+
+# edi-errortoosmallx.prop
+
+0x059351F6 Luomus on liian pieni
+
+# edi-blockscaled.prop
+
+0xEDDA5389 Muokkaa osien kokoa pyörittämällä hiiren rullaa
+
+# edi-errortoosmallz.prop
+
+0x05935251 Luomus on virheellinen
+
+# edi-errorhasunloadableblocks.prop
+
+0xB2499A05 Luomukseen kuuluu osia sellaisesta laajennuksesta, jota sinulla ei ole.
+
+# edi-errorinvalidpaint.prop
+
+0x90DD7C99 Luomuksella on virheellinen värjäys
+
+# Over budget
+
+0x53371DFF Luomus on liian kallis
+
+# edi-blockpurchased.prop
+
+0xE1003992 Vedä osa valikoimasta luomukseesi
+
+# edi-errorinvalidscales.prop
+
+0xF3915F1A Luomuksessa on osia, joilla on virheellinen koko.
+
+# edi-errorfailedload.prop
+
+0x059493F1 Luomusta ei voi ladata - se on korruptoitunut.
+
+# edi-erroroutofbounds.prop
+
+0xED466ADA Luomus on editorin rajojen ulkopuolella
+
+# Save
+
+0xA8CFB7C8 Tallennettavia osia on oltava vähintään kolme
+
+# edi-errorinvalidname.prop
+
+0x6A1E1CCA Luomuksella ei ole nimeä tai nimessä on virheellisiä merkkejä
+
+# edi-errornotpainted.prop
+
+0x4AEE3558 Luomusta ei ole vielä väritetty
+
+# edi-errorinvalidcomplexity.prop
+
+0x3106FE9B Luomuksessa on liian monta osaa
+
+# edi-errortoosmall.prop
+
+0x86257FF9 Luomus on liian pieni
+
+# edi-cameramoved.prop
+
+0x1FF46AFA Käännä kuvakulmaa napsauttamalla ja vetämällä taustaa
+
+# edi-errormissingpacks.prop
+
+0x4D523DE8 Luomus tarvitsee sisältöpaketteja, joita ei ole asennettu.
+
+# edi-errorstatsoutofrange.prop
+
+0x7FD1B365 Luomuksella on virheelliset taidot
+
